@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { useScrollDirection } from "react-use-scroll-direction";
 import GridLayout from "./components/GridLayout";
 
 const App = () => {
